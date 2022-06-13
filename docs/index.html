@@ -2238,16 +2238,15 @@ function init_posts_list() {
 
 
 
-<div class="posts-container posts-apply-limit l-page">
+<div class="posts-container posts-with-sidebar posts-apply-limit l-screen-inset">
 <div class="posts-list">
 <h1 class="posts-list-caption" data-caption="In Conversation">In Conversation</h1>
 <a href="posts/2022-06-13-test-post/" class="post-preview">
-<script class="post-metadata" type="text/json">{"categories":[]}</script>
+<script class="post-metadata" type="text/json">{"categories":["portfolios","dygraphs"]}</script>
 <div class="metadata">
 <div class="publishedDate">June 13, 2022</div>
 <div class="dt-authors">
 <div class="dt-author">Rithic Kumar</div>
-<div class="dt-author"></div>
 </div>
 </div>
 <div class="thumbnail">
@@ -2255,17 +2254,19 @@ function init_posts_list() {
 </div>
 <div class="description">
 <h2>Test post</h2>
-<div class="dt-tags"></div>
-<p>A short description of the post.</p>
+<div class="dt-tags">
+<div class="dt-tag">portfolios</div>
+<div class="dt-tag">dygraphs</div>
+</div>
+<p>Testing the blog.</p>
 </div>
 </a>
 <a href="posts/welcome/" class="post-preview">
-<script class="post-metadata" type="text/json">{"categories":[]}</script>
+<script class="post-metadata" type="text/json">{"categories":["info"]}</script>
 <div class="metadata">
 <div class="publishedDate">June 13, 2022</div>
 <div class="dt-authors">
 <div class="dt-author">Rithic Kumar</div>
-<div class="dt-author"></div>
 </div>
 </div>
 <div class="thumbnail">
@@ -2273,11 +2274,36 @@ function init_posts_list() {
 </div>
 <div class="description">
 <h2>Welcome to In Conversation</h2>
-<div class="dt-tags"></div>
+<div class="dt-tags">
+<div class="dt-tag">info</div>
+</div>
 <p>Welcome to our new blog, In Conversation. We hope you enjoy 
 reading what we have to say!</p>
 </div>
 </a>
+</div>
+<div class="posts-sidebar">
+<div class="sidebar-section categories">
+<h3>Categories</h3>
+<ul>
+<li>
+<a href="#category:articles">articles</a>
+<span class="category-count">(2)</span>
+</li>
+<li>
+<a href="#category:dygraphs">dygraphs</a>
+<span class="category-count">(1)</span>
+</li>
+<li>
+<a href="#category:info">info</a>
+<span class="category-count">(1)</span>
+</li>
+<li>
+<a href="#category:portfolios">portfolios</a>
+<span class="category-count">(1)</span>
+</li>
+</ul>
+</div>
 </div>
 <div class="posts-more">
 <a href="#">More articles &raquo;</a>

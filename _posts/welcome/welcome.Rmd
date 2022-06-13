@@ -3,9 +3,10 @@ title: "Welcome to In Conversation"
 description: |
   Welcome to our new blog, In Conversation. We hope you enjoy 
   reading what we have to say!
-author:
-  - name: Rithic Kumar
+author: Rithic Kumar
 date: 06-13-2022
+categories:
+  - info
 output:
   distill::distill_article:
     self_contained: false

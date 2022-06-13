@@ -2,22 +2,21 @@
   {
     "path": "posts/2022-06-13-test-post/",
     "title": "Test post",
-    "description": "A short description of the post.",
+    "description": "Testing the blog.",
     "author": [
       {
         "name": "Rithic Kumar",
         "url": {}
-      },
-      {
-        "name": "",
-        "url": {}
       }
     ],
     "date": "2022-06-13",
-    "categories": [],
+    "categories": [
+      "portfolios",
+      "dygraphs"
+    ],
     "contents": "\nDistill is a publication format for scientific and technical writing, native to the web.\nLearn more about using Distill at https://rstudio.github.io/distill.\n\n\n\n",
     "preview": {},
-    "last_modified": "2022-06-13T14:05:41+05:30",
+    "last_modified": "2022-06-13T14:32:42+05:30",
     "input_file": {}
   },
   {
@@ -28,17 +27,15 @@
       {
         "name": "Rithic Kumar",
         "url": {}
-      },
-      {
-        "name": "",
-        "url": {}
       }
     ],
     "date": "2022-06-13",
-    "categories": [],
+    "categories": [
+      "info"
+    ],
     "contents": "\n\n\n\n",
     "preview": {},
-    "last_modified": "2022-06-13T14:03:08+05:30",
+    "last_modified": "2022-06-13T14:34:11+05:30",
     "input_file": {}
   }
 ]
