@@ -5,8 +5,8 @@ description: |
   reading what I have to say!
 author: Rithic Kumar
 date: 06-13-2022
-categories:
-  - info
+categories: info
+preview: images/In Conversation.png
 output:
   distill::distill_article:
     self_contained: false
