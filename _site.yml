@@ -22,7 +22,7 @@ collections:
     categories_metadata: true
     authors_metadata: false
     disqus:
-      shortname: In Conversation
+      shortname: in-conversation
       hidden: false
     subscribe: _subscribe.html
     custom: _custom.html
