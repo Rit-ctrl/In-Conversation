@@ -13,13 +13,9 @@
     "categories": [
       "info"
     ],
-    "contents": "\nThere are 1000 blogs out there. Why should you read this?\nI have no idea\n\n\n\n",
+    "contents": "\n\n\n\n",
     "preview": {},
-<<<<<<< HEAD
-    "last_modified": "2022-06-14T19:39:24+05:30",
-=======
-    "last_modified": "2022-06-14T14:15:01+00:00",
->>>>>>> a549f5af8163b218b4a30a52b12491e8a82fdae0
-    "input_file": {}
+    "last_modified": "2022-06-14T18:55:21+05:30",
+    "input_file": "welcome.knit.md"
   }
 ]

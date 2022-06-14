@@ -6,7 +6,7 @@ name: Render & Deploy Site
 
 jobs:
   build:
-    runs-on: ubuntu-latest
+    runs-on: macos-latest
     steps:
       - uses: actions/checkout@v2
 
@@ -18,15 +18,12 @@ jobs:
         run: |
           install.packages("rmarkdown")
           install.packages("distill")
-          install.packages("postcards")
-          install.packages("devtools")
-          install.packages("fs")
+          
         shell: Rscript {0}
-
       - name: Render Site
         run: Rscript -e 'rmarkdown::render_site(encoding = "UTF-8")'
       - name: Commit results
         run: |
           git add -A
           git commit -m 'Rebuild site' || echo "No changes to commit"
-          git push origin || echo "No changes to commit"
+          git push 
