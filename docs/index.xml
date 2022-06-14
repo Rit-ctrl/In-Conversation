@@ -2,30 +2,20 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
     <title>In Conversation</title>
-    <link>https://rit-ctrl.github.io/Rithic-Kumar/</link>
-    <atom:link href="https://rit-ctrl.github.io/Rithic-Kumar/index.xml" rel="self" type="application/rss+xml"/>
+    <link>https://rit-ctrl.github.io/In-Conversation/</link>
+    <atom:link href="https://rit-ctrl.github.io/In-Conversation/index.xml" rel="self" type="application/rss+xml"/>
     <description>Ramblings on Cinema,Data,Sports and Strawberries
 </description>
     <generator>Distill</generator>
     <lastBuildDate>Mon, 13 Jun 2022 00:00:00 +0000</lastBuildDate>
     <item>
-      <title>Test post</title>
-      <dc:creator>Rithic Kumar</dc:creator>
-      <link>https://rit-ctrl.github.io/Rithic-Kumar/posts/2022-06-13-test-post</link>
-      <description>Testing the blog.</description>
-      <category>portfolios</category>
-      <category>dygraphs</category>
-      <guid>https://rit-ctrl.github.io/Rithic-Kumar/posts/2022-06-13-test-post</guid>
-      <pubDate>Mon, 13 Jun 2022 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Welcome to In Conversation</title>
       <dc:creator>Rithic Kumar</dc:creator>
-      <link>https://rit-ctrl.github.io/Rithic-Kumar/posts/welcome</link>
+      <link>https://rit-ctrl.github.io/In-Conversation/posts/welcome</link>
       <description>Welcome to our new blog, In Conversation. We hope you enjoy 
 reading what we have to say!</description>
       <category>info</category>
-      <guid>https://rit-ctrl.github.io/Rithic-Kumar/posts/welcome</guid>
+      <guid>https://rit-ctrl.github.io/In-Conversation/posts/welcome</guid>
       <pubDate>Mon, 13 Jun 2022 00:00:00 +0000</pubDate>
     </item>
   </channel>
