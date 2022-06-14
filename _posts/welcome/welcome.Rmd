@@ -16,6 +16,8 @@ There are 1000 blogs out there. Why should you read this?
 
 I have no idea
 
+![In Conversation](In Conversation.png)
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 
