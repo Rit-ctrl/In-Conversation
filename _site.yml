@@ -4,6 +4,9 @@ description: |
   Ramblings on Cinema,Data,Sports and Strawberries
 output_dir: "docs"
 base_url: https://rit-ctrl.github.io/In-Conversation/
+twitter:
+  site: "@In Conversation"
+  creator: "@curlyhairluiz"
 navbar:
   logo:
     image: images/logo-removebg-preview.png
@@ -16,6 +19,8 @@ navbar:
     - icon: fa fa-rss
       href: index.xml
   source_url: https://github.com/Rit-ctrl/In-Conversation
+google_analytics: "G-223EB5L4CK"
+favicon: images/logo-removebg-preview.png
 collections:
   posts:
     categories: true
