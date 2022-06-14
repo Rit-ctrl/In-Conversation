@@ -12,6 +12,7 @@ output:
     self_contained: false
 ---
 
+There are 1000 blogs out there. Why should you read this?
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
