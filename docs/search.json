@@ -3,17 +3,17 @@
     {
       "path": "about.html",
       "title": "About this blog",
-      "description": "Some additional details about the blog",
+      "description": "Ramblings on Cinema,Data,Sports and Strawberries",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2022-06-16T13:02:08+00:00"
+      "last_modified": "2022-06-16T13:24:47+00:00"
     },
     {
       "path": "index.html",
       "title": "In Conversation",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2022-06-16T13:02:09+00:00"
+      "last_modified": "2022-06-16T13:24:48+00:00"
     }
   ],
   "collections": ["posts/posts.json"]
