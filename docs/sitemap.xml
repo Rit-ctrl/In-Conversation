@@ -2,14 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" version="1.0">
   <url>
     <loc>https://rit-ctrl.github.io/In-Conversation/about.html</loc>
+<<<<<<< HEAD
     <lastmod>2022-06-16T18:40:34+05:30</lastmod>
+=======
+    <lastmod>2022-06-16T13:00:47+00:00</lastmod>
+>>>>>>> 75c042036f5719515fffacb7888bacd62a4e93fb
   </url>
   <url>
     <loc>https://rit-ctrl.github.io/In-Conversation/</loc>
-    <lastmod>2022-06-16T16:35:44+05:30</lastmod>
+    <lastmod>2022-06-16T13:00:47+00:00</lastmod>
   </url>
   <url>
     <loc>https://rit-ctrl.github.io/In-Conversation/posts/welcome/</loc>
+<<<<<<< HEAD
     <lastmod>2022-06-16T18:49:41+05:30</lastmod>
+=======
+    <lastmod>2022-06-16T13:00:47+00:00</lastmod>
+>>>>>>> 75c042036f5719515fffacb7888bacd62a4e93fb
   </url>
 </urlset>
