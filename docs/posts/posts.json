@@ -2,7 +2,7 @@
   {
     "path": "posts/welcome/",
     "title": "Welcome to In Conversation",
-    "description": "Welcome to my new blog, In Conversation. I hope you enjoy \nreading what I have to say!",
+    "description": "To boldly go where my mind hasn't gone before",
     "author": [
       {
         "name": "Rithic Kumar",
@@ -15,7 +15,7 @@
     ],
     "contents": "\r\n\r\nThere are 1000 blogs out there. Why should you read this?\r\nTired answer:\r\nWe (you and me) have to figure that out\r\nWired answer:\r\nFirst thing - Thanks for taking your time to read this.\r\nI have been trying to figure out what truly interests me. On a random Monday it is Data Science. Before the day ends it is Cinema. And after I wake up it is Sports Analytics. But one thing has remained constant - my love for Strawberries.\r\nFigure from https://twitter.com/MadMenQtsBut on a serious note, I am starting this blog to articulate my thoughts and figuring out what works for me. I am trying to be more productive and hope this will keep me more accountable and honest. For you, I want this blog to be like a conversation with your friends about random things - the ones that run late into the night and forget when you wake up the next day - except this will be here for you to revisit and enjoy from time to time.\r\nSee you soon!\r\nRithic\r\n\r\n\r\n\r\n",
     "preview": "posts/welcome/In Conversation.png",
-    "last_modified": "2022-06-16T18:32:34+05:30",
+    "last_modified": "2022-06-16T18:49:41+05:30",
     "input_file": "welcome.knit.md",
     "preview_width": 500,
     "preview_height": 500

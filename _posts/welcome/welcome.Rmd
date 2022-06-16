@@ -1,8 +1,6 @@
 ---
 title: "Welcome to In Conversation"
-description: |
-  Welcome to my new blog, In Conversation. I hope you enjoy 
-  reading what I have to say!
+description: To boldly go where my mind hasn't gone before
 author: Rithic Kumar
 date: 06-16-2022
 categories: info
